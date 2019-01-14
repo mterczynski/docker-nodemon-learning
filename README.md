@@ -1,5 +1,7 @@
 # Docker nodemon demo
 
+### Docker containers allows to run many apps using different node versions simultaneously.
+
 ## Build image
 
 ```
